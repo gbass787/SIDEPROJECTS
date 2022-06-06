@@ -1,0 +1,5 @@
+[user]
+	email = 4551@holbertonschool.com
+	name = gbass787
+[core]
+	excludesfile = /home/vagrant/~.gitignore
